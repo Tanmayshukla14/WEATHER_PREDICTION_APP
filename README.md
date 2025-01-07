@@ -34,7 +34,7 @@ To run this application, ensure you have the following Python libraries installe
 Model Training Details<br>  
 
 1. Algorithm: Naive Bayes Classifier  <br> 
-2. Input Features: <br>  
+2. Input Features:<br>
 a. Temperature (°C)<br> 
 b. Humidity (%)   <br> 
 c. Wind Speed (km/h)<br>   
@@ -48,6 +48,8 @@ Acknowledgments<br>
 1. WeatherAPI for providing the weather data.  <br> 
 2. Python community for amazing open-source libraries.<br> 
    <br>
+   
 Author  <br>
+
 1. Name - Tanmay Shukla
 2. Email - tanmayshukla1408@gmail.com
