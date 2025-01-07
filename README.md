@@ -6,35 +6,47 @@ Features<br>
 3. Machine Learning Prediction: Train a weather prediction model using historical data and predict weather conditions based on user inputs.  
 4. Graphical User Interface (GUI): User-friendly interface built with Tkinter.  
 <br>
+
+
 Technologies Used<br>  
-1. Programming Language: Python  
-2. GUI Framework: Tkinter  
-3. Data Handling: pandas  
-4. Machine Learning: scikit-learn (Naive Bayes Classifier)    
-5. API Integration: requests (WeatherAPI)  
-6. Visualization: PIL (Python Imaging Library)  
+
+1. Programming Language: Python<br>
+2. GUI Framework: Tkinter<br>   
+3. Data Handling: pandas<br>     
+4. Machine Learning: scikit-learn (Naive Bayes Classifier) <br>    
+5. API Integration: requests (WeatherAPI)<br>   
+6. Visualization: PIL (Python Imaging Library)  <br>
+
 <br>
+
 Requirements<br>  
+
 To run this application, ensure you have the following Python libraries installed:<br>  
-1. tkinter  
-2. requests  
-3. pandas  
-4. scikit-learn  
-5. python-dotenv  
-6. Pillow  
+1. tkinter  <br> 
+2. requests <br>  
+3. pandas <br>  
+4. scikit-learn  <br> 
+5. python-dotenv <br>  
+6. Pillow  <br> 
 <br>
+
+
 Model Training Details<br>  
-1. Algorithm: Naive Bayes Classifier  
-2. Input Features:  
-a. Temperature (°C)
-b. Humidity (%)   
-c. Wind Speed (km/h)  
-3. Target: Weather Condition (encoded as a categorical variable)  
-4. Data Source: Historical weather data fetched from WeatherAPI.
+
+1. Algorithm: Naive Bayes Classifier  <br> 
+2. Input Features: <br>  
+a. Temperature (°C)<br> 
+b. Humidity (%)   <br> 
+c. Wind Speed (km/h)<br>   
+3. Target: Weather Condition (encoded as a categorical variable) <br>  
+4. Data Source: Historical weather data fetched from WeatherAPI.<br> 
    <br>
+
+   
 Acknowledgments<br>  
-1. WeatherAPI for providing the weather data.  
-2. Python community for amazing open-source libraries.
+
+1. WeatherAPI for providing the weather data.  <br> 
+2. Python community for amazing open-source libraries.<br> 
    <br>
 Author  <br>
 1. Name - Tanmay Shukla
